@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* styles/globals.css */
+[data-sonner-toaster] {
+  margin-top: 80px !important;
+}
